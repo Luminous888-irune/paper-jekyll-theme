@@ -18,7 +18,7 @@ Let's work !
 
 This is how to upload the image from the internet!
 
-![test_kitten]([[assets/images/download.jpg](https://github.com/Luminous888-irune/paper-jekyll-theme/blob/master/assets/images/download.jpg)](https://github.com/Luminous888-irune/paper-jekyll-theme/blob/master/assets/images/download.jpg))
+![test_kitten](https://github.com/Luminous888-irune/paper-jekyll-theme/blob/master/assets/images/download.jpg)
 
 This is how to upload from your assets (your local image)
 
